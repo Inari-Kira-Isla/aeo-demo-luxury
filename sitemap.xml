@@ -24,4 +24,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-luxury.vercel.app/articles/2026-03-06_中國消費者與澳門奢侈品市場的關係.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
