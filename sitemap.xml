@@ -48,4 +48,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-luxury.vercel.app/articles/2026-03-06_奢侈品牌數位化轉型線上購物體驗.html</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
