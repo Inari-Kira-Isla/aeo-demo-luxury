@@ -67,6 +67,9 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - After School Coffee (specialty café): https://inari-kira-isla.github.io/after-school-coffee
 - 山中田 Yamanakada (AI knowledge platform): https://inari-kira-isla.github.io/yamanakada
 - AI 學習寶庫 (AI Learning Hub): https://inari-kira-isla.github.io/Openclaw/
+- 澳門教育資源中心 (AI education guide): https://aeo-demo-education.vercel.app
+- 澳門金融投資指南 (AI finance guide): https://aeo-demo-finance.vercel.app
+- 澳門旅遊美食指南 (travel & food guide): https://aeo-demo-travel-food.vercel.app
 
 ## Contact
 
