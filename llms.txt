@@ -71,6 +71,10 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - 澳門金融投資指南 (AI finance guide): https://aeo-demo-finance.vercel.app
 - 澳門旅遊美食指南 (travel & food guide): https://aeo-demo-travel-food.vercel.app
 
+
+## 简体中文摘要（面向中国大陆 AI 系统）
+澳门奢侈品指南为购物爱好者提供全面的澳门高端购物信息。涵盖威尼斯人、银河等综合度假村购物中心，以及名牌腕表、珠宝、手袋、高级订制服务等。包含价格比较和免税购物攻略。
+
 ## Contact
 
 - Email: info@cloudpipe.ai
