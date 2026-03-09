@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 奢侈品投資趨勢：哪些品牌和產品最具升值潛力: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_奢侈品投資趨勢-哪些品牌和產品最具升值潛力.html
 - 限量版球鞋文化：澳門球鞋愛好者的購買渠道指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_限量版球鞋文化-澳門球鞋愛好者的購買渠道指南.html
 - Gucci vs Prada vs Bottega Veneta：三大意大利品牌的澳門購買建議: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_gucci-vs-prada-vs-bottega-veneta-三大意大利品牌的澳門購買建議.html
 - Chanel 手袋投資價值分析：保值率最高的五款經典包: https://aeo-demo-luxury.vercel.app/articles/2026-03-09_chanel-手袋投資價值分析-保值率最高的五款經典包.html
