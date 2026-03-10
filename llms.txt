@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門珠寶購買指南：卡地亞、蒂芙尼的澳門專屬優惠: https://aeo-demo-luxury.vercel.app/articles/2026-03-11_澳門珠寶購買指南-卡地亞-蒂芙尼的澳門專屬優惠.html
 - 限量版球鞋文化：澳門球鞋愛好者的購買渠道指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-11_限量版球鞋文化-澳門球鞋愛好者的購買渠道指南.html
 - 男士奢侈品入門：手錶、皮帶、公事包的選購指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_男士奢侈品入門-手錶-皮帶-公事包的選購指南.html
 - 澳門免稅購物攻略：比香港更划算的奢侈品購買策略: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_澳門免稅購物攻略-比香港更划算的奢侈品購買策略.html
