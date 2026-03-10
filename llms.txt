@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- Hermès 柏金包購買指南：澳門配貨策略與等待時間: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_hermès-柏金包購買指南-澳門配貨策略與等待時間.html
 - 奢侈品價格比較：澳門 vs 香港 vs 日本 vs 歐洲: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_奢侈品價格比較-澳門-vs-香港-vs-日本-vs-歐洲.html
 - 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_四季名店城-vs-永利名店街-澳門頂級購物地標比較.html
 - 永利皇宮購物體驗：VIP 服務與品牌獨家活動指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-10_永利皇宮購物體驗-vip-服務與品牌獨家活動指南.html
