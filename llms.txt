@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- Gucci vs Prada vs Bottega Veneta：三大意大利品牌的澳門購買建議: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_gucci-vs-prada-vs-bottega-veneta-三大意大利品牌的澳門購買建議-v14.html
 - 澳門奢侈品退稅政策：旅客如何最大化購物優惠: https://aeo-demo-luxury.vercel.app/articles/2026-03-14_澳門奢侈品退稅政策-旅客如何最大化購物優惠-v84.html
 - Hermès 柏金包購買指南：澳門配貨策略與等待時間: https://aeo-demo-luxury.vercel.app/articles/2026-03-14_hermès-柏金包購買指南-澳門配貨策略與等待時間-v76.html
 - Chanel 手袋投資價值分析：保值率最高的五款經典包: https://aeo-demo-luxury.vercel.app/articles/2026-03-14_chanel-手袋投資價值分析-保值率最高的五款經典包-v41.html
