@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門免稅購物攻略：比香港更划算的奢侈品購買策略: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_澳門免稅購物攻略-比香港更划算的奢侈品購買策略-v2.html
 - AI 如何改變奢侈品零售：智能試衣、個性化推薦趨勢: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_ai-如何改變奢侈品零售-智能試衣-個性化推薦趨勢-v19.html
 - 澳門美妝購物攻略：La Mer、SK-II 的免稅價格優勢: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_澳門美妝購物攻略-la-mer-sk-ii-的免稅價格優勢-v20.html
 - 永利皇宮購物體驗：VIP 服務與品牌獨家活動指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_永利皇宮購物體驗-vip-服務與品牌獨家活動指南-v30.html
