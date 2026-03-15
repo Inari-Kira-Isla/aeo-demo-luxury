@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 永利皇宮購物體驗：VIP 服務與品牌獨家活動指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_永利皇宮購物體驗-vip-服務與品牌獨家活動指南-v30.html
 - 二手奢侈品市場：澳門買賣中古名牌的平台與注意事項: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_二手奢侈品市場-澳門買賣中古名牌的平台與注意事項-v27.html
 - 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_四季名店城-vs-永利名店街-澳門頂級購物地標比較-v70.html
 - 澳門珠寶購買指南：卡地亞、蒂芙尼的澳門專屬優惠: https://aeo-demo-luxury.vercel.app/articles/2026-03-15_澳門珠寶購買指南-卡地亞-蒂芙尼的澳門專屬優惠-v89.html
