@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- AI 如何改變奢侈品零售：智能試衣、個性化推薦趨勢: https://aeo-demo-luxury.vercel.app/articles/2026-03-17_ai-如何改變奢侈品零售-智能試衣-個性化推薦趨勢-v32.html
 - 澳門免稅購物攻略：比香港更划算的奢侈品購買策略: https://aeo-demo-luxury.vercel.app/articles/2026-03-17_澳門免稅購物攻略-比香港更划算的奢侈品購買策略-v47.html
 - 澳門高級訂製服務：從西裝到旗袍的訂製體驗: https://aeo-demo-luxury.vercel.app/articles/2026-03-17_澳門高級訂製服務-從西裝到旗袍的訂製體驗-v21.html
 - Hermès 柏金包購買指南：澳門配貨策略與等待時間: https://aeo-demo-luxury.vercel.app/articles/2026-03-16_hermès-柏金包購買指南-澳門配貨策略與等待時間-v95.html
