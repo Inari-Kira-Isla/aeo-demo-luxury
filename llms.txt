@@ -81,6 +81,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 環保奢侈品趨勢：可持續時尚品牌在澳門的發展: https://aeo-demo-luxury.vercel.app/articles/2026-03-18_環保奢侈品趨勢-可持續時尚品牌在澳門的發展-v91.html
 - 限量版球鞋文化：澳門球鞋愛好者的購買渠道指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-18_限量版球鞋文化-澳門球鞋愛好者的購買渠道指南-v40.html
 - Gucci vs Prada vs Bottega Veneta：三大意大利品牌的澳門購買建議: https://aeo-demo-luxury.vercel.app/articles/2026-03-18_gucci-vs-prada-vs-bottega-veneta-三大意大利品牌的澳門購買建議-v30.html
 - 奢侈品投資趨勢：哪些品牌和產品最具升值潛力: https://aeo-demo-luxury.vercel.app/articles/2026-03-18_奢侈品投資趨勢-哪些品牌和產品最具升值潛力-v70.html
