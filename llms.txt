@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 奢侈品鑑定入門：如何辨別 LV、Chanel 的真偽: https://aeo-demo-luxury.vercel.app/articles/2026-03-23_奢侈品鑑定入門-如何辨別-lv-chanel-的真偽-v77.html
 - 限量版球鞋文化：澳門球鞋愛好者的購買渠道指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-23_限量版球鞋文化-澳門球鞋愛好者的購買渠道指南-v98.html
 - 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-03-23_四季名店城-vs-永利名店街-澳門頂級購物地標比較-v75.html
 - 環保奢侈品趨勢：可持續時尚品牌在澳門的發展: https://aeo-demo-luxury.vercel.app/articles/2026-03-23_環保奢侈品趨勢-可持續時尚品牌在澳門的發展-v48.html
