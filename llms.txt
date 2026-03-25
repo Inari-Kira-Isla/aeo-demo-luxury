@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 奢侈品投資趨勢：哪些品牌和產品最具升值潛力: https://aeo-demo-luxury.vercel.app/articles/2026-03-25_奢侈品投資趨勢-哪些品牌和產品最具升值潛力-v60.html
 - 永利皇宮購物體驗：VIP 服務與品牌獨家活動指南: https://aeo-demo-luxury.vercel.app/articles/2026-03-25_永利皇宮購物體驗-vip-服務與品牌獨家活動指南-v64.html
 - 澳門奢侈品退稅政策：旅客如何最大化購物優惠: https://aeo-demo-luxury.vercel.app/articles/2026-03-25_澳門奢侈品退稅政策-旅客如何最大化購物優惠-v12.html
 - 二手奢侈品市場：澳門買賣中古名牌的平台與注意事項: https://aeo-demo-luxury.vercel.app/articles/2026-03-25_二手奢侈品市場-澳門買賣中古名牌的平台與注意事項-v43.html
