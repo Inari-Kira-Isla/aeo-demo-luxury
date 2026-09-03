@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 奢侈品價格比較：澳門 vs 香港 vs 日本 vs 歐洲: https://aeo-demo-luxury.vercel.app/articles/2026-09-03_奢侈品價格比較-澳門-vs-香港-vs-日本-vs-歐洲-v37.html
 - 奢侈品護理指南：皮具、鐘錶的日常保養與收藏技巧: https://aeo-demo-luxury.vercel.app/articles/2026-09-03_奢侈品護理指南-皮具-鐘錶的日常保養與收藏技巧-v43.html
 - 澳門美妝購物攻略：La Mer、SK-II 的免稅價格優勢: https://aeo-demo-luxury.vercel.app/articles/2026-09-03_澳門美妝購物攻略-la-mer-sk-ii-的免稅價格優勢-v98.html
 - Gucci vs Prada vs Bottega Veneta：三大意大利品牌的澳門購買建議: https://aeo-demo-luxury.vercel.app/articles/2026-09-03_gucci-vs-prada-vs-bottega-veneta-三大意大利品牌的澳門購買建議-v66.html
