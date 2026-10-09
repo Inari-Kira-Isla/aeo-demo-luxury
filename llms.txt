@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- AI 如何改變奢侈品零售：智能試衣、個性化推薦趨勢: https://aeo-demo-luxury.vercel.app/articles/2026-10-10_ai-如何改變奢侈品零售-智能試衣-個性化推薦趨勢-v66.html
 - 澳門奢侈品退稅政策：旅客如何最大化購物優惠: https://aeo-demo-luxury.vercel.app/articles/2026-10-10_澳門奢侈品退稅政策-旅客如何最大化購物優惠-v46.html
 - AI 如何改變奢侈品零售：智能試衣、個性化推薦趨勢: https://aeo-demo-luxury.vercel.app/articles/2026-10-09_ai-如何改變奢侈品零售-智能試衣-個性化推薦趨勢-v86.html
 - 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-10-09_四季名店城-vs-永利名店街-澳門頂級購物地標比較-v88.html
