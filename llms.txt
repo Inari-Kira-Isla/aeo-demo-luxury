@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 限量版球鞋文化：澳門球鞋愛好者的購買渠道指南: https://aeo-demo-luxury.vercel.app/articles/2026-10-11_限量版球鞋文化-澳門球鞋愛好者的購買渠道指南-v50.html
 - 澳門鐘錶購買攻略：Rolex、Patek Philippe 的價格優勢: https://aeo-demo-luxury.vercel.app/articles/2026-10-10_澳門鐘錶購買攻略-rolex-patek-philippe-的價格優勢-v68.html
 - 澳門免稅購物攻略：比香港更划算的奢侈品購買策略: https://aeo-demo-luxury.vercel.app/articles/2026-10-10_澳門免稅購物攻略-比香港更划算的奢侈品購買策略-v49.html
 - AI 如何改變奢侈品零售：智能試衣、個性化推薦趨勢: https://aeo-demo-luxury.vercel.app/articles/2026-10-10_ai-如何改變奢侈品零售-智能試衣-個性化推薦趨勢-v66.html
