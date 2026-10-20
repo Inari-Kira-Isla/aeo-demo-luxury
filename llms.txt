@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門奢侈品退稅政策：旅客如何最大化購物優惠: https://aeo-demo-luxury.vercel.app/articles/2026-10-20_澳門奢侈品退稅政策-旅客如何最大化購物優惠-v25.html
 - 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-10-20_四季名店城-vs-永利名店街-澳門頂級購物地標比較-v90.html
 - 奢侈品價格比較：澳門 vs 香港 vs 日本 vs 歐洲: https://aeo-demo-luxury.vercel.app/articles/2026-10-20_奢侈品價格比較-澳門-vs-香港-vs-日本-vs-歐洲-v16.html
 - 澳門美妝購物攻略：La Mer、SK-II 的免稅價格優勢: https://aeo-demo-luxury.vercel.app/articles/2026-10-20_澳門美妝購物攻略-la-mer-sk-ii-的免稅價格優勢-v54.html
