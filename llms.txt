@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門奢侈品退稅政策：旅客如何最大化購物優惠: https://aeo-demo-luxury.vercel.app/articles/2026-10-27_澳門奢侈品退稅政策-旅客如何最大化購物優惠-v31.html
 - 奢侈品鑑定入門：如何辨別 LV、Chanel 的真偽: https://aeo-demo-luxury.vercel.app/articles/2026-10-27_奢侈品鑑定入門-如何辨別-lv-chanel-的真偽-v49.html
 - 二手奢侈品市場：澳門買賣中古名牌的平台與注意事項: https://aeo-demo-luxury.vercel.app/articles/2026-10-26_二手奢侈品市場-澳門買賣中古名牌的平台與注意事項-v47.html
 - Gucci vs Prada vs Bottega Veneta：三大意大利品牌的澳門購買建議: https://aeo-demo-luxury.vercel.app/articles/2026-10-26_gucci-vs-prada-vs-bottega-veneta-三大意大利品牌的澳門購買建議-v39.html
