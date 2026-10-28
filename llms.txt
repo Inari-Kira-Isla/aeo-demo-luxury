@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 限量版球鞋文化：澳門球鞋愛好者的購買渠道指南: https://aeo-demo-luxury.vercel.app/articles/2026-10-29_限量版球鞋文化-澳門球鞋愛好者的購買渠道指南-v79.html
 - Chanel 手袋投資價值分析：保值率最高的五款經典包: https://aeo-demo-luxury.vercel.app/articles/2026-10-29_chanel-手袋投資價值分析-保值率最高的五款經典包-v42.html
 - 奢侈品價格比較：澳門 vs 香港 vs 日本 vs 歐洲: https://aeo-demo-luxury.vercel.app/articles/2026-10-28_奢侈品價格比較-澳門-vs-香港-vs-日本-vs-歐洲-v4.html
 - 永利皇宮購物體驗：VIP 服務與品牌獨家活動指南: https://aeo-demo-luxury.vercel.app/articles/2026-10-28_永利皇宮購物體驗-vip-服務與品牌獨家活動指南-v73.html
