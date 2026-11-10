@@ -87,6 +87,7 @@ This site is part of the CloudPipe AI Macau Knowledge Graph:
 - Website: https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-11-10_四季名店城-vs-永利名店街-澳門頂級購物地標比較-v14.html
 - 四季名店城 vs 永利名店街：澳門頂級購物地標比較: https://aeo-demo-luxury.vercel.app/articles/2026-11-10_四季名店城-vs-永利名店街-澳門頂級購物地標比較-v23.html
 - 男士奢侈品入門：手錶、皮帶、公事包的選購指南: https://aeo-demo-luxury.vercel.app/articles/2026-11-09_男士奢侈品入門-手錶-皮帶-公事包的選購指南-v71.html
 - 澳門免稅購物攻略：比香港更划算的奢侈品購買策略: https://aeo-demo-luxury.vercel.app/articles/2026-11-09_澳門免稅購物攻略-比香港更划算的奢侈品購買策略-v76.html
